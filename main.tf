@@ -1,4 +1,4 @@
-# Inherit configuration from CLI tools.  No nice way to pull in the region from ~/.aws/config
+# Inherit configuration from CLI tools. 
 
 provider "aws" {
   region = var.region
