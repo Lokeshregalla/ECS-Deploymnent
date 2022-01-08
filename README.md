@@ -28,6 +28,6 @@ https://servian.lokeshregalla.com/
 15)	AWS Secrets Manager
 16)	Postgres DB instance
 17)	IAM policies 
-18)	AWS ECS Cluster
+18)	AWS ECS Cluster (Fargate)
 19)	AWS ECS Task Definition
 20)	AWS ECS Service
