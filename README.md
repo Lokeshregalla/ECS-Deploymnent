@@ -2,6 +2,13 @@
 Deploying a GTD Golang application using IaC (Terraform)
 # Application url
 https://servian.lokeshregalla.com/
+
+# Prerequisites
+1)	Git
+2)	Terraform
+3)	AWS CLI
+4)	Docker
+
 # AWS components used in the Architecture
 
 1)	AWS VPC
